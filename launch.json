@@ -1,5 +1,6 @@
 {
     "version": "0.2.0",
+    "forwardPorts": [3000, 8080]
     "configurations": [
         {
             "name": "Python: Flask",
@@ -19,4 +20,5 @@
         }
     ]
 }
+
 
